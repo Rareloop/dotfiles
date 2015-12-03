@@ -69,7 +69,7 @@ source ~/Desktop/dotfiles-master/bootstrap.sh
 - Open Terminal
 - Open Preferences
 - Goto Profiles tab
-- Import ‘~/Desktop/dotfiles-master/presets/rareloop.terminal’
+- Import ‘~/Desktop/dotfiles-master/presets/Rareloop.terminal’
 - Set as default
 
 ## Thanks to
