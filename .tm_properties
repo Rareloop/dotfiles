@@ -1,0 +1,1 @@
+includeFiles = "{.tm_properties,.htaccess,.aliases,.bash_profile,.bash_prompt,.bashrc,.brew,.cask,.curlrc,.exports,.extra,.functions,.gitattributes,.gitconfig,.gitignore,.gvimrc,.hgignore,.hushlogin,.inputrc,.node,.osx,.screenrc,.vimrc,.wgetrc}"

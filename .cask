@@ -1,0 +1,13 @@
+# Install native apps
+brew tap phinze/homebrew-cask
+brew install brew-cask
+
+function installcask() {
+	brew cask install "${@}" 2> /dev/null
+}
+
+installcask imagealpha
+installcask imageoptim
+installcask sublime-text
+installcask sequel-pro
+installcask cyberduck
