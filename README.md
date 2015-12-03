@@ -1,6 +1,6 @@
 # Rareloop Mac Setup
 
-A repeatable process to setup a fresh Mac install for development.
+Process to setup a fresh Mac install for development.
 
 ## Installation
 
@@ -65,12 +65,19 @@ source ~/Desktop/dotfiles-master/bootstrap.sh
 
 ## Extras
 
-### Custom Terminal Theme
+### Install custom Terminal theme
 - Open Terminal
 - Open Preferences
 - Goto Profiles tab
 - Import `~/Desktop/dotfiles-master/presets/Rareloop.terminal`
 - Set as default
 
+### Setup code linting in Sublime Text
+- Base setup [TODO]
+    - ESLint [TODO]
+    - SCSSLint [TODO]
+    - PSR4 [TODO]
+    - JSON [TODO]
+
 ## Thanks to
-[Mathias Bynens](http://twitter.com/mathias "Follow @mathias on Twitter") for the [original repo](https://github.com/mathiasbynens/dotfiles) we forked.
+[Mathias Bynens](http://twitter.com/mathias "Follow @mathias on Twitter") for the [original repo](https://github.com/mathiasbynens/dotfiles) we used to start this guide.
