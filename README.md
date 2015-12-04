@@ -49,7 +49,7 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 ### Update Apache to use PHP from Homebrew
 ```bash
-nano /etc/apache/http.conf
+nano /etc/apache/httpd.conf
 ```
 
 Look for the line that contains `LoadModule php5_module` and replace with `LoadModule php5_module /usr/local/opt/php56/libexec/apache2/libphp5.so`.
