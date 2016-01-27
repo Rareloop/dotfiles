@@ -8,6 +8,6 @@ function installcask() {
 
 installcask imagealpha
 installcask imageoptim
-installcask sublime-text
+# installcask sublime-text
 installcask sequel-pro
 installcask cyberduck
