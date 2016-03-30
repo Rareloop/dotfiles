@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
 npm install -g eslint
-npm install -g eslint-config-airbnb
+npm install -g eslint-config-airbnb eslint-plugin-react
 npm install -g babel-eslint
